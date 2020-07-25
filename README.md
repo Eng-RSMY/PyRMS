@@ -1,2 +1,2 @@
 # PyRMS
-Petroleum reservoir modelling and simulation with Python language 
+Petroleum reservoir modelling, simulation and history matching using Python language 
